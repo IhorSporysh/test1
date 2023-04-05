@@ -1,0 +1,15 @@
+<html>  
+<head>  <title>img</
+title>  <meta charset="utf-8"> 
+</head>  <body>  
+<!—…—>
+<head>
+<meta>
+<body>
+<div>
+<title>
+<p>
+<br>
+<hr>
+<strong>
+<h1>, <h2>, <h3>
